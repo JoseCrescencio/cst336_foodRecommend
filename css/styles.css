@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+html{
+    background-color: #5cb85c;
+}
+
+#login{
+    float: right;
+    padding: .5em;
+}
